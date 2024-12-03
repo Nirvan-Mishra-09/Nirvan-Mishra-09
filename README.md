@@ -44,8 +44,7 @@ Passionate VLSI Design and Embedded Systems Engineer specializing in:
 
 ## 🌱 Current Focus
 - Advanced VLSI Design
-- 6G Communication Technologies
-- Embedded Systems Innovation
+- Firmware Development
 
 ## 📫 Connect with Me
 - Email: nirvan.mishra.01@gmail.com
